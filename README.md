@@ -11,6 +11,10 @@ Through data we listen, through models we see clearer."_
 **Ovarytales** is a data-driven project aimed at detecting and understanding **Polycystic Ovary Syndrome (PCOS)** using advanced machine learning techniques. From cleaning messy clinical data to visualizing the hidden signals of hormonal imbalance, this project takes you on a journey through symptom patterns, statistical truths, and powerful models — all with a focus on *interpretable AI for healthcare*.
 
 ---
+## 📁 About the Data
+
+This project uses the publicly available PCOS dataset, which can be found [here](https://www.kaggle.com/datasets/shreyasvedpathak/pcos-dataset).
+
 
 ## 🔬 Project Flow
 
@@ -60,9 +64,18 @@ This project is crafted with care by:
 
 ---
 
+
 ## 🧭 Purpose
 
 To empower healthcare systems with **accurate**, **ethical**, and **interpretable** AI tools for early PCOS detection — helping women receive the care they deserve, faster.
 
 ---
+
+## 🌱 Inspiration & References
+
+This project drew inspiration and guidance from several amazing open-source contributions.  
+In particular, the model-building ideas for **Random Forest**, **SVM**, and **Neural Network** were inspired by this insightful notebook on Kaggle:  
+➡️ [SVM PCOS Diagnosis by swabbie8](https://www.kaggle.com/code/swabbie8/svm-pcos-diagnosis#Model-Building)
+
+We are grateful to the community for sharing such high-quality educational content!
 
