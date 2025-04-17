@@ -56,7 +56,7 @@ Through data we listen, through models we see clearer."_
 
 This project is crafted with care by:
 - **Nandhika Rajmanikandan**
-- **[Your Friend's Name Here]** (Add once collaborator is added to GitHub)
+- **Kavya Sri Pachchava** 
 
 ---
 
