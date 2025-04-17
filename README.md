@@ -66,10 +66,3 @@ To empower healthcare systems with **accurate**, **ethical**, and **interpretabl
 
 ---
 
-## 📂 Project Structure (Simplified)
-```bash
-├── data/               # Raw and cleaned datasets
-├── notebooks/          # EDA, model training, visualizations
-├── models/             # Trained models (optional)
-├── utils/              # Helper functions
-├── README.md           # Project overview
