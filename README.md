@@ -79,3 +79,5 @@ In particular, the model-building ideas for **Random Forest**, **SVM**, and **Ne
 
 We are grateful to the community for sharing such high-quality educational content!
 
+Youtube Link: https://www.youtube.com/watch?v=JUVe6JVMKFo
+
